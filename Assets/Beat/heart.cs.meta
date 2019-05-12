@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c3c79ae893815db43ab497eb0aabeda4
+timeCreated: 1521929418
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - HeartSprite1: {fileID: 21300000, guid: 312dd014fb27e9745828f5e9bbe2b4d1, type: 3}
+  - HeartSprite2: {fileID: 21300000, guid: a64445dd88aec694896480e90ee99088, type: 3}
+  - HeartSprite3: {fileID: 21300000, guid: e6ad793736f35154bbdb586f7e62c321, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
